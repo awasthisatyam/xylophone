@@ -23,7 +23,7 @@ class XylophoneApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Colors.black,
         appBar: AppBar(
-          backgroundColor: Colors.blue[900],
+          backgroundColor: Colors.blue[700],
           title: Text('xylophone-flutter'),
         ),
         body: SafeArea(
